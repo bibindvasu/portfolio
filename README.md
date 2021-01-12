@@ -1,2 +1,2 @@
 # portfolio
-portfolio of projects
+A repository on various portfolio projects, team projects undertaken in Data Science
